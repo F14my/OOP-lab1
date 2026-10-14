@@ -1,0 +1,3 @@
+/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

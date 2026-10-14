@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/artem/labs/oop/lab1/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/artem/labs/oop/lab1 -g -std=c++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/str_ops.dir/str_ops.cpp.o -c /Users/artem/labs/oop/lab1/str_ops.cpp",
+  "file": "/Users/artem/labs/oop/lab1/str_ops.cpp",
+  "output": "/Users/artem/labs/oop/lab1/cmake-build-debug/CMakeFiles/str_ops.dir/str_ops.cpp.o"
+},
+{
+  "directory": "/Users/artem/labs/oop/lab1/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/artem/labs/oop/lab1 -g -std=c++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/lab1.dir/main.cpp.o -c /Users/artem/labs/oop/lab1/main.cpp",
+  "file": "/Users/artem/labs/oop/lab1/main.cpp",
+  "output": "/Users/artem/labs/oop/lab1/cmake-build-debug/CMakeFiles/lab1.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/artem/labs/oop/lab1/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/artem/labs/oop/lab1 -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/test_str_ops.dir/tests/test_str_ops.cpp.o -c /Users/artem/labs/oop/lab1/tests/test_str_ops.cpp",
+  "file": "/Users/artem/labs/oop/lab1/tests/test_str_ops.cpp",
+  "output": "/Users/artem/labs/oop/lab1/cmake-build-debug/CMakeFiles/test_str_ops.dir/tests/test_str_ops.cpp.o"
+},
+{
+  "directory": "/Users/artem/labs/oop/lab1/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock/include -I/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/artem/labs/oop/lab1/cmake-build-debug",
+  "command": "/usr/bin/c++ -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock/include -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/artem/labs/oop/lab1/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/include -I/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/artem/labs/oop/lab1/cmake-build-debug",
+  "command": "/usr/bin/c++ -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

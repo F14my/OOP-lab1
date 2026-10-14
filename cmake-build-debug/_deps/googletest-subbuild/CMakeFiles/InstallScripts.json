@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

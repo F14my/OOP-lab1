@@ -1,0 +1,21 @@
+# ninja log v6
+0	16	1790750309217798213	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	cc1ab3c4f94c7ad0
+2514	2528	1790750311730110672	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f7a8107e12b93ebe
+0	16	1790750309217798213	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	cc1ab3c4f94c7ad0
+2528	2542	1790750311743882168	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ffe8844184553ac7
+16	2500	1790750311701668841	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d51564f215435a96
+2500	2514	1790750311715995174	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	166d313c92fd62d3
+2528	2542	1790750311743882168	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ffe8844184553ac7
+2542	2556	1790750311758143125	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	111b51794107cce1
+2583	2601	1790750311803329427	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	a9ab3782a7109a56
+2583	2601	1790750311803329427	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a9ab3782a7109a56
+2514	2528	1790750311730110672	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f7a8107e12b93ebe
+16	2500	1790750311701668841	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d51564f215435a96
+2542	2556	1790750311758143125	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	111b51794107cce1
+2556	2570	1790750311772042288	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	48b72b43d5f95a2b
+2556	2570	1790750311772042288	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	48b72b43d5f95a2b
+2583	2601	1790750311803329427	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a9ab3782a7109a56
+2570	2583	1790750311785045322	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	62a185f77469b278
+2583	2601	1790750311803329427	CMakeFiles/googletest-populate-complete	a9ab3782a7109a56
+2500	2514	1790750311715995174	/Users/artem/labs/oop/lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	166d313c92fd62d3
+2570	2583	1790750311785045322	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	62a185f77469b278

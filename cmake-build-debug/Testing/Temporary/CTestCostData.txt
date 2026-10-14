@@ -1,0 +1,15 @@
+StrLen.CountsRegularString 4 0.00126866
+StrLen.NullptrHasZeroLength 4 0.00131635
+StrAlloc.CreatesCorrectCopy 4 0.00129156
+StrAlloc.CreatesIndependentMemory 4 0.00154001
+StrCopy.CopiesIntoAllocatedBuffer 4 0.00132117
+StrDelete.SetsPointerToNullptr 4 0.00124225
+StrToUpper.ConvertsLowercaseLetters 4 0.00116601
+StrToUpper.DoesNotChangeDigitsOrSymbols 4 0.00107027
+StrCountChar.CountsSeveralMatches 4 0.00108909
+StrCountChar.ReturnsZeroWhenNotFound 4 0.00108765
+StrCountChar.IsCaseSensitive 4 0.00118605
+EmptyString.VariantFunctionsWorkCorrectly 4 0.00123795
+StrNCopy.CopiesWhenBufferIsLargeEnough 3 0.00159076
+StrNCopy.TruncatesWhenBufferIsTooSmall 2 0.00230352
+---

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/artem/labs/oop/lab1/cmake-build-debug/test_variant[1]_tests.cmake")
+  include("/Users/artem/labs/oop/lab1/cmake-build-debug/test_variant[1]_tests.cmake")
+else()
+  add_test(test_variant_NOT_BUILT test_variant_NOT_BUILT)
+endif()
